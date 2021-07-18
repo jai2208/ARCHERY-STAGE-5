@@ -1,2 +1,1 @@
-# ARCHERY-STAGE-5
-GAME
+# Project Template 27
